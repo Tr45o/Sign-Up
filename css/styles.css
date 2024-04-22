@@ -64,3 +64,11 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background: linear-gradient(to bottom right, #3498db, #8e44ad);
   }
+
+footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
